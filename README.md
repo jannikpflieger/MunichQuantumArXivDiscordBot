@@ -7,5 +7,9 @@ Please make sure that you have a .env file where you list the Discord Server ID,
 It is not nice but it works. Feel free to update or alter the List of Professors to your needs.
 
 
+Thanks to Arxiv.org for providing the API to get the papers!
+Thanks Discord for the API to use the bot.
+
+
 # TODO
 create pipeline for only one execution
